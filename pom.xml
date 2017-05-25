@@ -90,7 +90,13 @@
                     <archive>
                         <manifest>
                             <mainClass>de.weichand.deegree.sld.preview.Exec</mainClass>
+                            <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                            <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
                         </manifest>
+                        <manifestEntries>
+                            <Specification-Vendor>https://github.com/JuergenWeichand</Specification-Vendor>
+                            <Implementation-Vendor>https://github.com/JuergenWeichand</Implementation-Vendor>
+                        </manifestEntries>
                     </archive>
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
