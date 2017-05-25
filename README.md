@@ -1,6 +1,6 @@
 # deegree-sld-preview
 
-[![Build Status](https://travis-ci.org/JuergenWeichand/deegree-sld-utility.svg?branch=master)](https://travis-ci.org/JuergenWeichand/deegree-sld-utility)
+[![Build Status](https://travis-ci.org/JuergenWeichand/deegree-sld-preview.svg?branch=master)](https://travis-ci.org/JuergenWeichand/deegree-sld-preview)
 
 Command line utility based on [deegree3](https://github.com/deegree/deegree3) to generate preview graphics from SLD (Styled Layer Descriptor) files. 
 
